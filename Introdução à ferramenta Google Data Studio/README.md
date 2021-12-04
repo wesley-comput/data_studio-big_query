@@ -19,6 +19,7 @@
 * Gráficos
 * Publicando o relatório
 
+[Link to report](https://datastudio.google.com/s/rTz8FVji6QE)
 
 ##### Click below to view the certificate
 [![](https://cdn4.iconfinder.com/data/icons/business-1221/24/Certificate-64.png)](https://cursos.alura.com.br/certificate/1e448c9e-9ad1-456c-add2-3c5c51933a4b)
